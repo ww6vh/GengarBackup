@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "97405314485",
+    "firebase_url": "https://pokecarddex-82951.firebaseio.com",
+    "project_id": "pokecarddex-82951",
+    "storage_bucket": "pokecarddex-82951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97405314485:android:44f039632c3f9b97",
+        "android_client_info": {
+          "package_name": "com.example.wendywu.pokecarddex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97405314485-820ho6ck92g11vvqq5csdfdi43nps0p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wendywu.pokecarddex",
+            "certificate_hash": "07f88ee909574f9a45ee319b476bbad020d019ca"
+          }
+        },
+        {
+          "client_id": "97405314485-tdqku1kal6uodosi3vm61dv8k4ls2qf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytygadIcVUhBurcDEcne0ZGzS5aSLim4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97405314485-tdqku1kal6uodosi3vm61dv8k4ls2qf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

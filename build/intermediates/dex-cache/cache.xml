@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/WendyWu/.android/build-cache/26f37b0bd5ec6983523457eb9938bdc0f78353ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/WendyWu/Documents/3_Spring_2017/CS 4720/final-project-s17-gengar/PokeCardDex/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d837b12b3cd8dba7ca51ea8efefe71bcaca6388d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/WendyWu/Documents/3_Spring_2017/CS 4720/final-project-s17-gengar/PokeCardDex/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5c6f7a10d863ff836e8d2d443a927ec74b9390e">
+        <dex dex="/Users/WendyWu/Documents/3_Spring_2017/CS 4720/final-project-s17-gengar/PokeCardDex/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_09bcdd327e0cfc7415e157041f696160a235c151/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/WendyWu/Documents/3_Spring_2017/CS 4720/final-project-s17-gengar/PokeCardDex/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/WendyWu/Documents/3_Spring_2017/CS 4720/final-project-s17-gengar/PokeCardDex/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_33c8b711aa5109b884fb9d8c3c978e9a8e19fe58/classes.dex" />
+    </item>
+
+</items>
